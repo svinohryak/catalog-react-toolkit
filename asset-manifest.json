@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/catalog-react-toolkit/static/css/main.1158097e.css",
+    "main.js": "/catalog-react-toolkit/static/js/main.bb80fe63.js",
+    "static/media/Screenshot.png": "/catalog-react-toolkit/static/media/Screenshot.529082e3aeb4d522119c.png",
+    "index.html": "/catalog-react-toolkit/index.html",
+    "main.1158097e.css.map": "/catalog-react-toolkit/static/css/main.1158097e.css.map",
+    "main.bb80fe63.js.map": "/catalog-react-toolkit/static/js/main.bb80fe63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1158097e.css",
+    "static/js/main.bb80fe63.js"
+  ]
+}
